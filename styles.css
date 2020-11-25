@@ -146,4 +146,9 @@ hr {
 .footer ul {
   padding-inline-start: 0px;
 }
-
+.upper{
+  margin-top: 100px;
+}
+a:hover {
+  background-color: #a47aec;
+}
